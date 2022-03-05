@@ -43,5 +43,9 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://slowlove729.github.io/react-wordle/"
+  "homepage": "https://slowlove729.github.io/react-wordle/",
+  "devDependencies": {
+    "@types/styled-components": "^5.1.24",
+    "styled-components": "^5.3.3"
+  }
 }
